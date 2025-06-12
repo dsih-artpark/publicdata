@@ -17,7 +17,7 @@ This dataset contains day-wise summaries of dengue tests, suspected cases, confi
 
 ## Download
 
-The file can be downloaded from github directly here: [Link](https://github.com/dsih-artpark/publicdata/blob/main/data/0015/data.csv).
+The file can be downloaded from github directly here: [Link](https://raw.githubusercontent.com/dsih-artpark/publicdata/refs/heads/main/data/0015/ka-dengue-daily-summary.csv).
 
 ## Source
 Data is primarily sourced from the Commissionerate of Health and Family Welfare Services, Government of Karnataka: [Link](https://hfwcom.karnataka.gov.in/info-4/Dengue+&+Chikungunya+-+-Malaria+&+H1N1-Reports/en). 
