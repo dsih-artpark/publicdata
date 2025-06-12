@@ -141,8 +141,5 @@ dmypy.json
 # MacOS
 .DS_Store
 
-# All Data Files
-*.csv
-*.yaml
 !example.yaml
 !example.env
