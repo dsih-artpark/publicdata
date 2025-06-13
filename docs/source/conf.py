@@ -64,6 +64,6 @@ html_theme_options: Dict[str, Any] = {
         },
     ],
     "source_repository": "https://github.com/dsih-artpark/publicdata",
-    "source_branch": "production",
+    "source_branch": "main",
     "source_directory": "docs/source",
 }
