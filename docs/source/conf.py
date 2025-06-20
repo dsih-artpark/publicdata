@@ -30,6 +30,8 @@ extensions = [
     # Add other extensions as needed
 ]
 
+html_static_path = ["_static"]
+html_logo = "_static/logo.png"
 myst_enable_extensions = [
     "amsmath",
     "attrs_inline",
