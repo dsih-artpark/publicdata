@@ -1,0 +1,66 @@
+tables:
+    seromonitoring:
+      data_dictionary:
+        metadata.diseaseName:
+          description: 'WHO ICD-11 disease name'
+          comments:
+          access: True
+          default_value: 'FOOT AND MOUTH DISEASE'
+        metadata.program:
+          description: 'Vaccination Program name'
+          comments: 'Can be FMDCP or NADCP.'
+          access: True
+        metadata.round:
+          description: 'Round number of the program.'
+          comments: 'For FMDCP, for some states the round numbering starts at 2004, while for some it starts later. Data is not very consistent. NADCP round numbers start in 2004'
+          access: True
+        metadata.year:
+          description: 'Year reported'
+          comments:
+          access: True
+        state.ID:
+          description: 'State ID or Union Territory ID constructed from Local Government Directory in India. Unique across the country.'
+          comments:
+          access: True
+          default_value: 'state_29'
+        state.name:
+          description: 'State or Union Territory Name, as per Local Government Directory in India'
+          comments:
+          access: True
+          default_value: 'KARNATAKA'
+        prevac.sample:
+          description: 'Number of samples tested pre-vaccination'
+          comments:
+          access: True
+        prevac.positive.A.pct:
+          description: 'Percentage of pre-vaccination samples that have antibodies against A-type virus for titre specified (computed as prevac.positive.A.cnt/prevac.sample * 100)'
+          comments:
+          access: True
+        prevac.positive.O.pct:
+          description: 'Percentage of pre-vaccination samples that have antibodies against O-type virus for titre specified (computed as prevac.positive.O.cnt/prevac.sample * 100)'
+          comments:
+          access: True
+        prevac.positive.asia1.pct:
+          description: 'Percentage of pre-vaccination samples that have antibodies against Asia1-type virus for titre specified (computed as prevac.positive.asia1.cnt/prevac.sample * 100)'
+          comments:
+          access: True
+        postvac.sample:
+          description: 'Number of samples tested post-vaccination'
+          comments:
+          access: True
+        postvac.positive.A.pct: 
+          description: 'Percentage of post-vaccination samples that have antibodies against A-type virus for titre specified (computed as postvac.positive.A.cnt/postvac.sample * 100)'
+          comments: 
+          access: True
+        postvac.positive.O.pct:
+          description: 'Percentage of post-vaccination samples that have antibodies against O-type virus for titre specified (calc)'
+          comments: 'computed as postvac.positive.O.cnt/postvac.sample * 100'
+          access: True
+        postvac.positive.asia1.pct:
+          description: 'Percentage of post-vaccination samples that have antibodies against Asia1-type virus for titre specified (calc)'
+          comments: 'computed as postvac.positive.Asia1.cnt/postvac.sample * 100'
+          access: True
+      info:
+        source: ICAR Annual Reports
+        comments: State level data from annual reports
+        description: "v1 of sero"

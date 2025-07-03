@@ -1,0 +1,71 @@
+state.id,state.name,species,location_type,population.male.under6months,population.male.6monthsandabove,population.male.total,population.female.under6months,population.female.6monthsandabove,population.female.total,population.total
+ut_35,Andaman And Nicobar Islands,pig(exotic/crossbred),rural,360,467,827,452,560,1012,1839
+state_28,Andhra Pradesh,pig(exotic/crossbred),rural,883,1103,1986,1879,3270,5149,7135
+state_12,Arunachal Pradesh,pig(exotic/crossbred),rural,3763,3733,7496,2560,2522,5082,12578
+state_18,Assam,pig(exotic/crossbred),rural,124002,106181,230183,119573,88456,208029,438212
+state_10,Bihar,pig(exotic/crossbred),rural,1917,1970,3887,9797,9678,19475,23362
+ut_4,Chandigarh,pig(exotic/crossbred),rural,0,0,0,0,0,0,0
+state_22,Chhattisgarh,pig(exotic/crossbred),rural,1768,1509,3277,2186,2182,4368,7645
+ut_7,Delhi,pig(exotic/crossbred),rural,823,1074,1897,600,932,1532,3429
+state_30,Goa,pig(exotic/crossbred),rural,965,771,1736,1029,1021,2050,3786
+state_24,Gujarat,pig(exotic/crossbred),rural,0,0,0,0,0,0,0
+state_6,Haryana,pig(exotic/crossbred),rural,13041,8698,21739,20337,17958,38295,60034
+state_2,Himachal Pradesh,pig(exotic/crossbred),rural,177,133,310,228,196,424,734
+ut_1,Jammu And Kashmir,pig(exotic/crossbred),rural,15,32,47,25,66,91,138
+state_20,Jharkhand,pig(exotic/crossbred),rural,12833,12297,25130,13690,13602,27292,52422
+state_29,Karnataka,pig(exotic/crossbred),rural,8431,9404,17835,15275,26055,41330,59165
+state_32,Kerala,pig(exotic/crossbred),rural,19670,14692,34362,29358,31032,60390,94752
+ut_31,Lakshadweep,pig(exotic/crossbred),rural,0,0,0,0,0,0,0
+state_23,Madhya Pradesh,pig(exotic/crossbred),rural,501,415,916,852,739,1591,2507
+state_27,Maharashtra,pig(exotic/crossbred),rural,2026,1356,3382,3041,3560,6601,9983
+state_14,Manipur,pig(exotic/crossbred),rural,3244,2116,5360,5456,5572,11028,16388
+state_17,Meghalaya,pig(exotic/crossbred),rural,75662,74768,150430,58107,63233,121340,271770
+state_15,Mizoram,pig(exotic/crossbred),rural,42056,37212,79268,34584,31869,66453,145721
+state_13,Nagaland,pig(exotic/crossbred),rural,49408,46960,96368,35833,35291,71124,167492
+state_21,Odisha,pig(exotic/crossbred),rural,291,201,492,275,470,745,1237
+ut_34,Puducherry,pig(exotic/crossbred),rural,17,23,40,9,16,25,65
+state_3,Punjab,pig(exotic/crossbred),rural,8733,5188,13921,14090,11866,25956,39877
+state_8,Rajasthan,pig(exotic/crossbred),rural,708,567,1275,1075,1394,2469,3744
+state_11,Sikkim,pig(exotic/crossbred),rural,4150,5168,9318,1274,1269,2543,11861
+state_33,Tamil Nadu,pig(exotic/crossbred),rural,2307,2145,4452,4184,4209,8393,12845
+state_36,Telangana,pig(exotic/crossbred),rural,831,667,1498,2125,2049,4174,5672
+ut_38,The Dadra And Nagar Haveli And Daman And Diu,pig(exotic/crossbred),rural,0,0,0,0,0,0,0
+state_16,Tripura,pig(exotic/crossbred),rural,28803,21471,50274,30561,22065,52626,102900
+state_9,Uttar Pradesh,pig(exotic/crossbred),rural,5396,5691,11087,13098,13025,26123,37210
+state_5,Uttarakhand,pig(exotic/crossbred),rural,1278,683,1961,1935,1603,3538,5499
+state_19,West Bengal,pig(exotic/crossbred),rural,8311,8651,16962,6080,6014,12094,29056
+ut_35,Andaman And Nicobar Islands,pig(exotic/crossbred),urban,30,45,75,36,49,85,160
+state_28,Andhra Pradesh,pig(exotic/crossbred),urban,463,479,942,815,1029,1844,2786
+state_12,Arunachal Pradesh,pig(exotic/crossbred),urban,421,337,758,174,168,342,1100
+state_18,Assam,pig(exotic/crossbred),urban,5642,2829,8471,7916,3641,11557,20028
+state_10,Bihar,pig(exotic/crossbred),urban,270,250,520,1087,1087,2174,2694
+ut_4,Chandigarh,pig(exotic/crossbred),urban,0,0,0,0,0,0,0
+state_22,Chhattisgarh,pig(exotic/crossbred),urban,330,258,588,471,415,886,1474
+ut_7,Delhi,pig(exotic/crossbred),urban,1333,2183,3516,912,724,1636,5152
+state_30,Goa,pig(exotic/crossbred),urban,6,20,26,4,10,14,40
+state_24,Gujarat,pig(exotic/crossbred),urban,3,1,4,1,0,1,5
+state_6,Haryana,pig(exotic/crossbred),urban,672,553,1225,1532,1976,3508,4733
+state_2,Himachal Pradesh,pig(exotic/crossbred),urban,4,11,15,2,17,19,34
+ut_1,Jammu And Kashmir,pig(exotic/crossbred),urban,20,15,35,30,16,46,81
+state_20,Jharkhand,pig(exotic/crossbred),urban,948,1176,2124,1712,2593,4305,6429
+state_29,Karnataka,pig(exotic/crossbred),urban,1413,2057,3470,3222,6118,9340,12810
+state_32,Kerala,pig(exotic/crossbred),urban,1239,895,2134,1541,2607,4148,6282
+ut_31,Lakshadweep,pig(exotic/crossbred),urban,0,0,0,0,0,0,0
+state_23,Madhya Pradesh,pig(exotic/crossbred),urban,582,711,1293,773,933,1706,2999
+state_27,Maharashtra,pig(exotic/crossbred),urban,806,800,1606,1223,1445,2668,4274
+state_14,Manipur,pig(exotic/crossbred),urban,366,355,721,6645,3729,10374,11095
+state_17,Meghalaya,pig(exotic/crossbred),urban,1373,1503,2876,708,699,1407,4283
+state_15,Mizoram,pig(exotic/crossbred),urban,33719,30562,64281,27739,25320,53059,117340
+state_13,Nagaland,pig(exotic/crossbred),urban,12293,13156,25449,6336,7813,14149,39598
+state_21,Odisha,pig(exotic/crossbred),urban,34,18,52,57,49,106,158
+ut_34,Puducherry,pig(exotic/crossbred),urban,15,9,24,23,44,67,91
+state_3,Punjab,pig(exotic/crossbred),urban,953,533,1486,1273,1030,2303,3789
+state_8,Rajasthan,pig(exotic/crossbred),urban,250,313,563,516,634,1150,1713
+state_11,Sikkim,pig(exotic/crossbred),urban,63,44,107,18,32,50,157
+state_33,Tamil Nadu,pig(exotic/crossbred),urban,554,873,1427,1257,1577,2834,4261
+state_36,Telangana,pig(exotic/crossbred),urban,272,418,690,751,1043,1794,2484
+ut_38,The Dadra And Nagar Haveli And Daman And Diu,pig(exotic/crossbred),urban,0,0,0,0,0,0,0
+state_16,Tripura,pig(exotic/crossbred),urban,272,261,533,616,578,1194,1727
+state_9,Uttar Pradesh,pig(exotic/crossbred),urban,1041,1272,2313,1370,1636,3006,5319
+state_5,Uttarakhand,pig(exotic/crossbred),urban,443,742,1185,656,775,1431,2616
+state_19,West Bengal,pig(exotic/crossbred),urban,551,534,1085,455,634,1089,2174

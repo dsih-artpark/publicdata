@@ -1,0 +1,320 @@
+tables:
+  ka-district-livestock-pop-2019:
+    data_dictionary:
+      metadata.recordID:
+        description: 'UUID generated using UUID4 from python3'
+        comments:
+        access: True
+      country.ID: 
+        description: 'Country ID constructed using ISO 3166 alpha-2 code. e.g. country_IN for India'
+        comments:
+        access: True
+      country.name:
+        description: 'Country Name from ISO 3166'
+        comments:
+        access: True
+      location.admin.hierarchy:
+        description: 'Whether Revenue or ULB admin hierarchy'
+        comments: 'admin_0 if unknown'
+        access: True
+      state.ID:
+        description: 'State ID or Union Territory ID constructed from Local Government Directory in India. Unique across the country.'
+        comments:
+        access: True
+      state.name:
+        description: 'State or Union Territory Name, as per Local Government Directory in India'
+        comments:
+        access: True
+      district.ID:
+        description: 'District ID constructed from Local Government Directory in India. Unique across the country.'
+        comments: 'If a district has LGD code 525, the ID is district_525. admin_0 if unknown.'
+        access: True
+      district.name:
+        description: 'District Name, as per Local Government Directory'
+        comments: 'If corresponding ID is admin_0 (unknown), the name provided in the raw dataset is retained.'
+        access: True
+      population.buffalo:
+        description: 'Buffalo population'
+        comments:
+        access: True
+      population.cattle:
+        description: 'Cattle population'
+        comments:
+        access: True
+      population.goat:
+        description: 'Goat population'
+        comments:
+        access: True
+      population.pig:
+        description: 'Pig population'
+        comments:
+        access: True
+      population.poultry:
+        description: 'Poultry population'
+        comments:
+        access: True
+      population.sheep:
+        description: 'Sheep population'
+        comments:
+        access: True
+
+    info:
+      about: '20th Karnataka livestock census'
+      source: 'https://www.ahvs.kar.nic.in/en-reportsstat.html'
+      comments:
+      references:
+
+  ka-village-livestock-pop-2019:
+    data_dictionary:
+      metadata.recordID:
+        description: 'UUID generated using UUID4 from python3'
+        comments:
+        access: True
+      country.ID:
+        description: 'Country ID constructed using ISO 3166 alpha-2 code. e.g. country_IN for India'
+        comments:
+        access: True
+      country.name:
+        description: 'Country Name from ISO 3166'
+        comments:
+        access: True
+      location.admin.hierarchy:
+        description: 'Whether Revenue or ULB admin hierarchy'
+        comments: 'admin_0 if unknown'
+        access: True
+      state.ID:
+        description: 'State ID or Union Territory ID constructed from Local Government Directory in India. Unique across the country.'
+        comments:
+        access: True
+      state.name:
+        description: 'State or Union Territory Name, as per Local Government Directory in India'
+        comments:
+        access: True
+      district.ID:
+        description: 'District ID constructed from Local Government Directory in India. Unique across the country.'
+        comments: 'If a district has LGD code 525, the ID is district_525. admin_0 if unknown.'
+        access: True
+      district.name:
+        description: 'District Name, as per Local Government Directory'
+        comments: 'If corresponding ID is admin_0 (unknown), the name provided in the raw dataset is retained.'
+        access: True
+      subdistrict.ID:
+        description: 'Subdistrict or ULB ID, constructed from Local Government Directory in India. Unique across the country.'
+        comments: 'If a subdistrict has LGD code 5587, the ID is subdistrict_5587. If a ULB has LGD code 251963, the ID is ulb_251963. admin_0 if unknown.'
+        access: True
+      subdistrict.name:
+        description: 'Subdistrict or ULB Name, as per Local Government Directory'
+        comments: 'If corresponding ID is admin_0 (unknown), the name provided in the raw dataset is retained.'
+        access: True
+      location.admin4.ID:
+        description: 'Zone ID (if Urban Local Body), provided by the ULB/State'
+        comments: 'Currently not mapped for BBMP and other ULBs'
+        access: True
+      location.admin4.name:
+        description: 'Zone Name (if Urban Local Body), provided by the ULB/State'
+        comments: 'Currently not mapped for BBMP and other ULBs'
+        access: True
+      village.ID:
+        description: 'Village (for Revenue) or Ward ID (for ULB), constructed from Local Government Directory in India.'
+        comments: 'admin_0 if known'
+        access: True
+      village.name:
+        description: 'Village or Ward Name, as per Local Government Directory'
+        comments: 'If corresponding ID is admin_0 (unknown), the name provided in the raw dataset is retained.'
+        access: True
+      population.buffalo:
+        description: 'Buffalo population'
+        comments:
+        access: True
+      population.cattle:
+        description: 'Cattle population'
+        comments:
+        access: True
+      population.goat:
+        description: 'Goat population'
+        comments:
+        access: True
+      population.pig:
+        description: 'Pig population'
+        comments:
+        access: True
+      population.poultry:
+        description: 'Poultry population'
+        comments:
+        access: True
+      population.sheep:
+        description: 'Sheep population'
+        comments:
+        access: True
+    info:
+      about: District, Village and Ward-wise livestock population in Karnataka
+      source: 'https://www.ahvs.kar.nic.in/en-reportsstat.html'
+      comments:
+      references:
+
+  mh-district-livestock-pop-2019:
+    data_dictionary:
+      metadata.recordID:
+        description: 'UUID generated using UUID4 from python3'
+        comments:
+        access: True
+      country.ID: 
+        description: 'Country ID constructed using ISO 3166 alpha-2 code. e.g. country_IN for India'
+        comments:
+        access: True
+      country.name:
+        description: 'Country Name from ISO 3166'
+        comments:
+        access: True
+      location.admin.hierarchy:
+        description: 'Whether Revenue or ULB admin hierarchy'
+        comments: 'admin_0 if unknown'
+        access: True
+      state.ID:
+        description: 'State ID or Union Territory ID constructed from Local Government Directory in India. Unique across the country.'
+        comments:
+        access: True
+      state.name:
+        description: 'State or Union Territory Name, as per Local Government Directory in India'
+        comments:
+        access: True
+      district.ID:
+        description: 'District ID constructed from Local Government Directory in India. Unique across the country.'
+        comments: 'If a district has LGD code 525, the ID is district_525. admin_0 if unknown.'
+        access: True
+      district.name:
+        description: 'District Name, as per Local Government Directory'
+        comments: 'If corresponding ID is admin_0 (unknown), the name provided in the raw dataset is retained.'
+        access: True
+      metadata.category:
+        description: 'Whether Commercial or Backyard'
+        comments:
+        access: True
+      metadata.type:
+        description: 'Whether Indigenous, Improved or Other'
+        comments:
+        access: True
+      population.cocks:
+        description: 'Cocks population'
+        comments:
+        access: True
+      population.hens:
+        description: 'Hens population'
+        comments:
+        access: True
+      population.chickens:
+        description: 'Chickens population'
+        comments:
+        access: True
+      population.drakes:
+        description: 'Drakes population'
+        comments:
+        access: True
+      population.ducks:
+        description: 'Ducks population'
+        comments:
+        access: True
+      population.ducklings:
+        description: 'Ducklings population'
+        comments:
+        access: True
+      population.turkey:
+        description: 'Turkey population'
+        comments:
+        access: True
+      population.quails:
+        description: 'Quails population'
+        comments:
+        access: True
+      population.poultyBirds:
+        description: 'Poultry birds (Gini Fowl, Ostrich, Emu,Geese) population'
+        comments:
+        access: True
+    info:
+      about: '20th Maharashra livestock census'
+      source: 'Pune Knowledge Cluster (PKC)'
+      comments:
+      references:
+  all-india-20th-livestock-census:
+    data_dictionary:
+      state.name:
+        description: 'State or Union Territory Name, as per Local Government Directory in India'
+        comments:
+        access: True
+      state.ID:
+        description: 'State ID or Union Territory ID constructed from Local Government Directory in India. Unique across the country.'
+        comments:
+        access: True
+      district.name:
+        description: 'District Name, as per Local Government Directory'
+        comments:
+        access: True
+      district.ID:
+        description: 'District ID constructed from Local Government Directory in India. Unique across the country.'
+        comments: 'If a district has LGD code 525, the ID is district_525'
+        access: True
+      block.name:
+        description: 'Block/Tehsil Name as given in the raw dataset'
+        comments:
+        access: True
+      village.name:
+        description: 'Village Name as given in the raw dataset'
+        comments:
+        access: True
+      town.name:
+        description: 'Town Name as given in the raw dataset'
+        comments:
+        access: True
+      ward.name:
+        description: 'Ward Name as given in the raw dataset'
+        comments:
+        access: True
+      location.type:
+        description: 'Type of location (Rural/Urban)'
+        comments:
+        access: True
+      population.cattle.male:
+        description: 'Male cattle population'
+        comments:
+        access: True
+      population.buffalo.male:
+        description: 'Male buffalo population'
+        comments:
+        access: True
+      population.sheep.male:
+        description: 'Male sheep population'
+        comments:
+        access: True
+      population.goat.male:
+        description: 'Male goat population'
+        comments:
+        access: True
+      population.pig.male:
+        description: 'Male pig population'
+        comments:
+        access: True
+      population.cattle.female:
+        description: 'Female cattle population'
+        comments:
+        access: True
+      population.buffalo.female:
+        description: 'Female buffalo population'
+        comments:
+        access: True
+      population.sheep.female:
+        description: 'Female sheep population'
+        comments:
+        access: True
+      population.goat.female:
+        description: 'Female goat population'
+        comments:
+        access: True
+      population.pig.female:
+        description: 'Female pig population'
+        comments:
+        access: True
+    info:
+      about: 'All India Population data from 20th Livestock Census at a village / ward level'
+      source: 'https://dahd.gov.in/taxonomy/term/410'
+      comments:
+      references:

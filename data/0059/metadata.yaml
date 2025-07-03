@@ -1,0 +1,93 @@
+tables:
+  nadcp-vaccination-schedule:
+    data_dictionary:
+      metadata.recordID:
+        description: 'UUID generated using UUID4 from Python 3'
+        comments:
+        access: True
+      metadata.diseaseName:
+        description: 'WHO ICD-11 Disease Name'
+        comments:
+        access: True
+        default_value: 'FOOT AND MOUTH DISEASE'
+      metadata.diseaseCode:
+        description: 'WHO ICD-11 Disease Code'
+        comments:
+        access: True
+        default_value: 'ICD11_1F05'
+      metadata.round:
+        description: 'NADCP Vaccination Schedule Round'
+        comments:
+        access: True
+      metadata.vaccinationSchedule:
+        description: 'Date on which vaccinations are scheduled in ISO 8601 format. Multiple dates are split into separate rows.'
+        comments:
+        access: True
+      metadata.vaccinationSchedule.endDate:
+        description: 'End date of vaccination schedule in ISO 8601 format.'
+        comments: 'optional'
+        access: True
+      country.ID:
+        description: 'Country ID constructed using ISO 3166 alpha-2 code. e.g. country_IN for India'
+        comments:
+        access: True
+        default_value: 'country_IN'
+      country.name:
+        description: 'Country Name from ISO 3166'
+        comments:
+        access: True
+        default_value: 'INDIA'
+      location.admin.hierarchy:
+        description: 'Whether Revenue or ULB admin hierarchy'
+        comments: 'admin_0 if unknown'
+        access: True
+      state.ID:
+        description: 'State ID or Union Territory ID constructed from Local Government Directory in India. Unique across the country.'
+        comments:
+        access: True
+        default_value: 'state_29'
+      state.name:
+        description: 'State or Union Territory Name, as per Local Government Directory in India'
+        comments:
+        access: True
+        default_value: 'KARNATAKA'
+      district.ID:
+        description: 'District ID constructed from Local Government Directory in India. Unique across the country.'
+        comments: 'If a district has LGD code 525, the ID is district_525. admin_0 if unknown.'
+        access: True
+      district.name:
+        description: 'District Name, as per Local Government Directory'
+        comments: 'If corresponding ID is admin_0 (unknown), the name provided in the raw dataset is retained.'
+        access: True
+      subdistrict.ID:
+        description: 'Subdistrict/ULB ID constructed from Local Government Directory in India. Unique across the country.'
+        comments: 'If a subdistrict has LGD code 5251, the ID is subdistrict_5251. admin_0 if unknown.'
+        access: True
+      subdistrict.name:
+        description: 'Subdistrict/ULB Name, as per Local Government Directory'
+        comments: 'If corresponding ID is admin_0 (unknown), the name provided in the raw dataset is retained.'
+        access: True
+      location.admin4.name:
+        description: 'Zone Name (if Urban Local Body) or Hobli name, provided by the ULB/State'
+        comments: 'Currently not standardized as we have no source of truth'
+        access: True
+      village.ID:
+        description: 'Village/ward ID constructed from Local Government Directory in India. Unique across the country.'
+        comments: 'If a village has LGD code 268832, the ID is village_268832. admin_0 if unknown.'
+        access: True
+      village.name:
+        description: 'Village/ward Name, as per Local Government Directory'
+        comments: 'If corresponding ID is admin_0 (unknown), the name provided in the raw dataset is retained.'
+        access: True
+      daily.vaccinated.cattle:
+        description: 'Number of cattle scheduled to be vaccinated on the scheduled dates'
+        comments: 'Need not match with number in vaccination report dataset'
+        access: True
+      daily.vaccinated.buffalo:
+        description: 'Number of buffalo scheduled to be vaccinated on the scheduled dates'
+        comments: 'Need not match with number in vaccination report dataset'
+        access: True
+      daily.vaccinated.total:
+        description: 'Total number of animals scheduled to be vaccinated on the scheduled dates'
+        comments: 'Need not match with number in vaccination report dataset'
+        access: True

@@ -1,0 +1,57 @@
+tables:
+    serosurveillance:
+      data_dictionary:
+        metadata.diseaseName:
+          description: 'WHO ICD-11 disease name'
+          comments:
+          access: True
+          default_value: 'FOOT AND MOUTH DISEASE'
+        metadata.year:
+          description: 'Year reported'
+          comments:
+          access: True
+        metadata.lastVaccinationDate:
+          description: 'Last date of vaccination in ISO 8601 format (YYYY-MM-DD or %Y-%m-%d on python3)'
+          comments:
+          access:
+        state.ID:
+          description: 'State ID or Union Territory ID constructed from Local Government Directory in India. Unique across the country.'
+          comments:
+          access: True
+          default_value: 'state_29'
+        state.name:
+          description: 'State or Union Territory Name, as per Local Government Directory in India'
+          comments:
+          access: True
+          default_value: 'KARNATAKA'
+        sero.cattle.sample:
+          description: 'No of cattle sampled'
+          comments:
+          access: True
+        sero.cattle.positive.pct:
+          description: 'Percentage of cattle that tested positive'
+          comments:
+          access: True
+        sero.buffalo.sample:
+          description: 'No of buffalo sampled'
+          comments:
+          access: True
+        sero.buffalo.positive.pct:
+          description: 'Percentage of buffalo that tested positive'
+          comments:
+          access: True
+        sero.sample:
+          description: 'No of bovine sampled = cattle + buffalo'
+          comments: 
+          access: True
+        sero.positive.pct:
+          description: 'Percentage of bovine that tested positive'
+          comments:
+          access: True
+        sero.test:
+          description: 'Type of ELISA test'
+          comments:
+          access: True
+      info:
+        source: ICAR Annual Reports
+        comments: 2022 has cattle and buffalo separated, while all the other years have them together as bovine.

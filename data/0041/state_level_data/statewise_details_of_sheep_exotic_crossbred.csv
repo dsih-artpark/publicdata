@@ -1,0 +1,71 @@
+state.id,state.name,species,location_type,population.male.upto1year,population.male.1yearandabove,population.male.total,population.female.upto1year,population.female.1yearandabove,population.female.total,population.total
+ut_35,Andaman And Nicobar Islands,sheep(exotic/crossbred),rural,0,0,0,0,0,0,0
+state_28,Andhra Pradesh,sheep(exotic/crossbred),rural,80186,111896,192082,341102,611158,952260,1144342
+state_12,Arunachal Pradesh,sheep(exotic/crossbred),rural,15,40,55,59,146,205,260
+state_18,Assam,sheep(exotic/crossbred),rural,1079,1430,2509,1567,1989,3556,6065
+state_10,Bihar,sheep(exotic/crossbred),rural,999,1177,2176,2230,4341,6571,8747
+ut_4,Chandigarh,sheep(exotic/crossbred),rural,0,0,0,0,0,0,0
+state_22,Chhattisgarh,sheep(exotic/crossbred),rural,71,72,143,150,239,389,532
+ut_7,Delhi,sheep(exotic/crossbred),rural,96,121,217,102,213,315,532
+state_30,Goa,sheep(exotic/crossbred),rural,0,0,0,0,0,0,0
+state_24,Gujarat,sheep(exotic/crossbred),rural,333,652,985,1599,2057,3656,4641
+state_6,Haryana,sheep(exotic/crossbred),rural,943,877,1820,5692,12177,17869,19689
+state_2,Himachal Pradesh,sheep(exotic/crossbred),rural,6816,9827,16643,16070,40049,56119,72762
+ut_1,Jammu And Kashmir,sheep(exotic/crossbred),rural,157819,203395,361214,353482,818468,1171950,1533164
+state_20,Jharkhand,sheep(exotic/crossbred),rural,219,276,495,313,416,729,1224
+state_29,Karnataka,sheep(exotic/crossbred),rural,7515,9799,17314,25353,49329,74682,91996
+state_32,Kerala,sheep(exotic/crossbred),rural,61,58,119,91,168,259,378
+ut_31,Lakshadweep,sheep(exotic/crossbred),rural,0,0,0,0,0,0,0
+state_23,Madhya Pradesh,sheep(exotic/crossbred),rural,751,381,1132,1544,1441,2985,4117
+state_27,Maharashtra,sheep(exotic/crossbred),rural,5723,6879,12602,38525,71028,109553,122155
+state_14,Manipur,sheep(exotic/crossbred),rural,1,2,3,12,16,28,31
+state_17,Meghalaya,sheep(exotic/crossbred),rural,21,16,37,26,36,62,99
+state_15,Mizoram,sheep(exotic/crossbred),rural,123,127,250,73,117,190,440
+state_13,Nagaland,sheep(exotic/crossbred),rural,13,22,35,27,99,126,161
+state_21,Odisha,sheep(exotic/crossbred),rural,956,998,1954,1817,2514,4331,6285
+ut_34,Puducherry,sheep(exotic/crossbred),rural,60,70,130,319,409,728,858
+state_3,Punjab,sheep(exotic/crossbred),rural,599,683,1282,3791,6529,10320,11602
+state_8,Rajasthan,sheep(exotic/crossbred),rural,1947,2593,4540,14874,26957,41831,46371
+state_11,Sikkim,sheep(exotic/crossbred),rural,11,20,31,4,10,14,45
+state_33,Tamil Nadu,sheep(exotic/crossbred),rural,25438,27257,52695,81217,118225,199442,252137
+state_36,Telangana,sheep(exotic/crossbred),rural,43479,42311,85790,105026,267016,372042,457832
+ut_38,The Dadra And Nagar Haveli And Daman And Diu,sheep(exotic/crossbred),rural,0,0,0,0,0,0,0
+state_16,Tripura,sheep(exotic/crossbred),rural,23,20,43,46,84,130,173
+state_9,Uttar Pradesh,sheep(exotic/crossbred),rural,4108,4754,8862,16112,24489,40601,49463
+state_5,Uttarakhand,sheep(exotic/crossbred),rural,3067,4561,7628,21424,46960,68384,76012
+state_19,West Bengal,sheep(exotic/crossbred),rural,4083,3590,7673,3622,4091,7713,15386
+ut_35,Andaman And Nicobar Islands,sheep(exotic/crossbred),urban,0,0,0,0,0,0,0
+state_28,Andhra Pradesh,sheep(exotic/crossbred),urban,5137,6326,11463,9903,14918,24821,36284
+state_12,Arunachal Pradesh,sheep(exotic/crossbred),urban,0,0,0,0,0,0,0
+state_18,Assam,sheep(exotic/crossbred),urban,84,117,201,215,328,543,744
+state_10,Bihar,sheep(exotic/crossbred),urban,147,128,275,61,46,107,382
+ut_4,Chandigarh,sheep(exotic/crossbred),urban,0,0,0,0,0,0,0
+state_22,Chhattisgarh,sheep(exotic/crossbred),urban,8,8,16,13,20,33,49
+ut_7,Delhi,sheep(exotic/crossbred),urban,109,5,114,4,4,8,122
+state_30,Goa,sheep(exotic/crossbred),urban,0,0,0,0,0,0,0
+state_24,Gujarat,sheep(exotic/crossbred),urban,17,40,57,54,111,165,222
+state_6,Haryana,sheep(exotic/crossbred),urban,18,18,36,105,223,328,364
+state_2,Himachal Pradesh,sheep(exotic/crossbred),urban,5,2,7,20,32,52,59
+ut_1,Jammu And Kashmir,sheep(exotic/crossbred),urban,7219,10465,17684,10188,22999,33187,50871
+state_20,Jharkhand,sheep(exotic/crossbred),urban,14,24,38,23,46,69,107
+state_29,Karnataka,sheep(exotic/crossbred),urban,1007,1125,2132,2110,4025,6135,8267
+state_32,Kerala,sheep(exotic/crossbred),urban,23,37,60,8,51,59,119
+ut_31,Lakshadweep,sheep(exotic/crossbred),urban,0,0,0,0,0,0,0
+state_23,Madhya Pradesh,sheep(exotic/crossbred),urban,89,96,185,119,182,301,486
+state_27,Maharashtra,sheep(exotic/crossbred),urban,324,303,627,1000,1035,2035,2662
+state_14,Manipur,sheep(exotic/crossbred),urban,0,0,0,0,0,0,0
+state_17,Meghalaya,sheep(exotic/crossbred),urban,0,0,0,0,0,0,0
+state_15,Mizoram,sheep(exotic/crossbred),urban,0,0,0,2,0,2,2
+state_13,Nagaland,sheep(exotic/crossbred),urban,0,0,0,0,0,0,0
+state_21,Odisha,sheep(exotic/crossbred),urban,33,44,77,47,80,127,204
+ut_34,Puducherry,sheep(exotic/crossbred),urban,42,28,70,20,28,48,118
+state_3,Punjab,sheep(exotic/crossbred),urban,32,26,58,76,151,227,285
+state_8,Rajasthan,sheep(exotic/crossbred),urban,80,80,160,610,1165,1775,1935
+state_11,Sikkim,sheep(exotic/crossbred),urban,0,0,0,0,0,0,0
+state_33,Tamil Nadu,sheep(exotic/crossbred),urban,3202,3641,6843,8437,10233,18670,25513
+state_36,Telangana,sheep(exotic/crossbred),urban,4318,3710,8028,6181,14910,21091,29119
+ut_38,The Dadra And Nagar Haveli And Daman And Diu,sheep(exotic/crossbred),urban,0,0,0,0,1,1,1
+state_16,Tripura,sheep(exotic/crossbred),urban,5,5,10,12,25,37,47
+state_9,Uttar Pradesh,sheep(exotic/crossbred),urban,122,140,262,539,822,1361,1623
+state_5,Uttarakhand,sheep(exotic/crossbred),urban,30,18,48,50,249,299,347
+state_19,West Bengal,sheep(exotic/crossbred),urban,197,142,339,157,206,363,702

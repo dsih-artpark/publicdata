@@ -1,0 +1,470 @@
+tables:
+  statewise_details_of_bovine:
+    data_dictionary:
+      population.bovine.rural.female:
+        access: 'True'
+        description: ''
+      population.bovine.rural.male:
+        access: 'True'
+        description: ''
+      population.bovine.rural.total:
+        access: 'True'
+        description: ''
+      population.bovine.urban.female:
+        access: 'True'
+        description: ''
+      population.bovine.urban.male:
+        access: 'True'
+        description: ''
+      population.bovine.urban.total:
+        access: 'True'
+        description: ''
+      state.id:
+        access: 'True'
+        description: ''
+      state.name:
+        access: 'True'
+        description: ''
+    info:
+      about: 'State level population details of bovine'
+      source: '20th Livestock Census PDF Report'
+  statewise_details_of_buffalo:
+    data_dictionary:
+      location_type:
+        access: 'True'
+        description: ''
+      population.female.1to3years:
+        access: 'True'
+        description: ''
+      population.female.dry:
+        access: 'True'
+        description: ''
+      population.female.in_milk:
+        access: 'True'
+        description: ''
+      population.female.not_calved_once:
+        access: 'True'
+        description: ''
+      population.female.others:
+        access: 'True'
+        description: ''
+      population.female.total:
+        access: 'True'
+        description: ''
+      population.female.upto1year:
+        access: 'True'
+        description: ''
+      population.male.others:
+        access: 'True'
+        description: ''
+      population.male.total:
+        access: 'True'
+        description: ''
+      population.male.upto2years:
+        access: 'True'
+        description: ''
+      population.male.used_for_agriculture_and_breeding_only:
+        access: 'True'
+        description: ''
+      population.male.used_for_agriculture_only:
+        access: 'True'
+        description: ''
+      population.male.used_for_breeding_only:
+        access: 'True'
+        description: ''
+      population.male.used_for_bullock_cart_or_farm_operation:
+        access: 'True'
+        description: ''
+      population.total:
+        access: 'True'
+        description: ''
+      species:
+        access: 'True'
+        description: ''
+      state.id:
+        access: 'True'
+        description: ''
+      state.name:
+        access: 'True'
+        description: ''
+    info:
+      about: 'State level population details of buffaloes by age, sex and use'
+      source: '20th Livestock Census PDF Report'
+  statewise_details_of_cattle_exotic_crossbred:
+    data_dictionary:
+      location_type:
+        access: 'True'
+        description: ''
+      population.female.1to2.5years:
+        access: 'True'
+        description: ''
+      population.female.dry:
+        access: 'True'
+        description: ''
+      population.female.in_milk:
+        access: 'True'
+        description: ''
+      population.female.not_calved_once:
+        access: 'True'
+        description: ''
+      population.female.others:
+        access: 'True'
+        description: ''
+      population.female.total:
+        access: 'True'
+        description: ''
+      population.female.upto1year:
+        access: 'True'
+        description: ''
+      population.male.others:
+        access: 'True'
+        description: ''
+      population.male.total:
+        access: 'True'
+        description: ''
+      population.male.upto1.5years:
+        access: 'True'
+        description: ''
+      population.male.used_for_agriculture_and_breeding_only:
+        access: 'True'
+        description: ''
+      population.male.used_for_agriculture_only:
+        access: 'True'
+        description: ''
+      population.male.used_for_breeding_only:
+        access: 'True'
+        description: ''
+      population.male.used_for_bullock_cart_or_farm_operation:
+        access: 'True'
+        description: ''
+      population.total:
+        access: 'True'
+        description: ''
+      species:
+        access: 'True'
+        description: ''
+      state.id:
+        access: 'True'
+        description: ''
+      state.name:
+        access: 'True'
+        description: ''
+    info:
+      about: 'State level population details of cattle (exotic/crossbred) by age, sex and use'
+      source: '20th Livestock Census PDF Report'
+  statewise_details_of_cattle_indigenous_non_descript:
+    data_dictionary:
+      location_type:
+        access: 'True'
+        description: ''
+      population.female.1to3years:
+        access: 'True'
+        description: ''
+      population.female.dry:
+        access: 'True'
+        description: ''
+      population.female.in_milk:
+        access: 'True'
+        description: ''
+      population.female.not_calved_once:
+        access: 'True'
+        description: ''
+      population.female.others:
+        access: 'True'
+        description: ''
+      population.female.total:
+        access: 'True'
+        description: ''
+      population.female.upto1year:
+        access: 'True'
+        description: ''
+      population.male.others:
+        access: 'True'
+        description: ''
+      population.male.total:
+        access: 'True'
+        description: ''
+      population.male.upto2years:
+        access: 'True'
+        description: ''
+      population.male.used_for_agriculture_and_breeding_only:
+        access: 'True'
+        description: ''
+      population.male.used_for_agriculture_only:
+        access: 'True'
+        description: ''
+      population.male.used_for_breeding_only:
+        access: 'True'
+        description: ''
+      population.male.used_for_bullock_cart_or_farm_operation:
+        access: 'True'
+        description: ''
+      population.total:
+        access: 'True'
+        description: ''
+      species:
+        access: 'True'
+        description: ''
+      state.id:
+        access: 'True'
+        description: ''
+      state.name:
+        access: 'True'
+        description: ''
+    info:
+      about: 'State level population details of cattle (indigenous/non-descript) by age, sex and use'
+      source: '20th Livestock Census PDF Report'
+  statewise_details_of_goat:
+    data_dictionary:
+      location_type:
+        access: 'True'
+        description: ''
+      population.female.dry:
+        access: 'True'
+        description: ''
+      population.female.in_milk:
+        access: 'True'
+        description: ''
+      population.female.not_calved_once:
+        access: 'True'
+        description: ''
+      population.female.total:
+        access: 'True'
+        description: ''
+      population.female.upto1year:
+        access: 'True'
+        description: ''
+      population.male.1yearandabove:
+        access: 'True'
+        description: ''
+      population.male.total:
+        access: 'True'
+        description: ''
+      population.male.upto1year:
+        access: 'True'
+        description: ''
+      population.total:
+        access: 'True'
+        description: ''
+      species:
+        access: 'True'
+        description: ''
+      state.id:
+        access: 'True'
+        description: ''
+      state.name:
+        access: 'True'
+        description: ''
+    info:
+      about: 'State level population details of goats by age, sex and use'
+      source: '20th Livestock Census PDF Report'
+  statewise_details_of_pig_exotic_crossbred:
+    data_dictionary:
+      location_type:
+        access: 'True'
+        description: ''
+      population.female.6monthsandabove:
+        access: 'True'
+        description: ''
+      population.female.total:
+        access: 'True'
+        description: ''
+      population.female.under6months:
+        access: 'True'
+        description: ''
+      population.male.6monthsandabove:
+        access: 'True'
+        description: ''
+      population.male.total:
+        access: 'True'
+        description: ''
+      population.male.under6months:
+        access: 'True'
+        description: ''
+      population.total:
+        access: 'True'
+        description: ''
+      species:
+        access: 'True'
+        description: ''
+      state.id:
+        access: 'True'
+        description: ''
+      state.name:
+        access: 'True'
+        description: ''
+    info:
+      about: 'State level population details of pigs (exotic/crossbred) by age, sex'
+      source: '20th Livestock Census PDF Report'
+  statewise_details_of_pig_indigenous:
+    data_dictionary:
+      location_type:
+        access: 'True'
+        description: ''
+      population.female.6monthsandabove:
+        access: 'True'
+        description: ''
+      population.female.total:
+        access: 'True'
+        description: ''
+      population.female.under6months:
+        access: 'True'
+        description: ''
+      population.male.6monthsandabove:
+        access: 'True'
+        description: ''
+      population.male.total:
+        access: 'True'
+        description: ''
+      population.male.under6months:
+        access: 'True'
+        description: ''
+      population.total:
+        access: 'True'
+        description: ''
+      species:
+        access: 'True'
+        description: ''
+      state.id:
+        access: 'True'
+        description: ''
+      state.name:
+        access: 'True'
+        description: ''
+    info:
+      about: 'State level population details of pigs (indigenous) by age, sex'
+      source: '20th Livestock Census PDF Report'
+  statewise_details_of_sheep_exotic_crossbred:
+    data_dictionary:
+      location_type:
+        access: 'True'
+        description: ''
+      population.female.1yearandabove:
+        access: 'True'
+        description: ''
+      population.female.total:
+        access: 'True'
+        description: ''
+      population.female.upto1year:
+        access: 'True'
+        description: ''
+      population.male.1yearandabove:
+        access: 'True'
+        description: ''
+      population.male.total:
+        access: 'True'
+        description: ''
+      population.male.upto1year:
+        access: 'True'
+        description: ''
+      population.total:
+        access: 'True'
+        description: ''
+      species:
+        access: 'True'
+        description: ''
+      state.id:
+        access: 'True'
+        description: ''
+      state.name:
+        access: 'True'
+        description: ''
+    info:
+      about: 'State level population details of sheep (exotic/crossbred) by age, sex'
+      source: '20th Livestock Census PDF Report'
+  statewise_details_of_sheep_indigenous:
+    data_dictionary:
+      location_type:
+        access: 'True'
+        description: ''
+      population.female.1yearandabove:
+        access: 'True'
+        description: ''
+      population.female.total:
+        access: 'True'
+        description: ''
+      population.female.upto1year:
+        access: 'True'
+        description: ''
+      population.male.1yearandabove:
+        access: 'True'
+        description: ''
+      population.male.total:
+        access: 'True'
+        description: ''
+      population.male.upto1year:
+        access: 'True'
+        description: ''
+      population.total:
+        access: 'True'
+        description: ''
+      species:
+        access: 'True'
+        description: ''
+      state.id:
+        access: 'True'
+        description: ''
+      state.name:
+        access: 'True'
+        description: ''
+    info:
+      about: 'State level population details of stray animals by age, sex'
+      source: '20th Livestock Census PDF Report'
+  statewise_details_of_stray_animals:
+    data_dictionary:
+      population.stray_cattle.rural:
+        access: 'True'
+        description: ''
+      population.stray_cattle.total:
+        access: 'True'
+        description: ''
+      population.stray_cattle.urban:
+        access: 'True'
+        description: ''
+      population.stray_dogs.rural:
+        access: 'True'
+        description: ''
+      population.stray_dogs.total:
+        access: 'True'
+        description: ''
+      population.stray_dogs.urban:
+        access: 'True'
+        description: ''
+      state.id:
+        access: 'True'
+        description: ''
+      state.name:
+        access: 'True'
+        description: ''
+    info:
+      about: 'State level population details of stray cattle and dogs'
+      source: ''
+  total_number_of_livestock_and_poultry:
+    data_dictionary:
+      population.livestock.rural:
+        access: 'True'
+        description: ''
+      population.livestock.total:
+        access: 'True'
+        description: ''
+      population.livestock.urban:
+        access: 'True'
+        description: ''
+      population.poultry.rural:
+        access: 'True'
+        description: ''
+      population.poultry.total:
+        access: 'True'
+        description: ''
+      population.poultry.urban:
+        access: 'True'
+        description: ''
+      state.id:
+        access: 'True'
+        description: ''
+      state.name:
+        access: 'True'
+        description: ''
+    info:
+      about: 'State level population details of livestock and poultry'
+      source: '20th Livestock Census PDF Report'

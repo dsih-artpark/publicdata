@@ -1,0 +1,71 @@
+state.id,state.name,species,location_type,population.male.under6months,population.male.6monthsandabove,population.male.total,population.female.under6months,population.female.6monthsandabove,population.female.total,population.total
+ut_35,Andaman And Nicobar Islands,pig(indigenous),rural,9594,5666,15260,12558,9930,22488,37748
+state_28,Andhra Pradesh,pig(indigenous),rural,10016,11784,21800,22526,26955,49481,71281
+state_12,Arunachal Pradesh,pig(indigenous),rural,61176,66716,127892,55077,63538,118615,246507
+state_18,Assam,pig(indigenous),rural,365229,304231,669460,502158,415100,917258,1586718
+state_10,Bihar,pig(indigenous),rural,35444,36145,71589,112587,112781,225368,296957
+ut_4,Chandigarh,pig(indigenous),rural,0,0,0,0,0,0,0
+state_22,Chhattisgarh,pig(indigenous),rural,111919,102542,214461,147566,140013,287579,502040
+ut_7,Delhi,pig(indigenous),rural,19183,10628,29811,18474,10509,28983,58794
+state_30,Goa,pig(indigenous),rural,8003,6999,15002,8017,7213,15230,30232
+state_24,Gujarat,pig(indigenous),rural,121,119,240,125,129,254,494
+state_6,Haryana,pig(indigenous),rural,6396,5366,11762,12362,12140,24502,36264
+state_2,Himachal Pradesh,pig(indigenous),rural,296,381,677,307,451,758,1435
+ut_1,Jammu And Kashmir,pig(indigenous),rural,196,246,442,214,330,544,986
+state_20,Jharkhand,pig(indigenous),rural,233093,238363,471456,370227,348432,718659,1190115
+state_29,Karnataka,pig(indigenous),rural,20595,23951,44546,37582,55949,93531,138077
+state_32,Kerala,pig(indigenous),rural,518,464,982,729,829,1558,2540
+ut_31,Lakshadweep,pig(indigenous),rural,0,0,0,0,0,0,0
+state_23,Madhya Pradesh,pig(indigenous),rural,17815,17933,35748,35249,38407,73656,109404
+state_27,Maharashtra,pig(indigenous),rural,18369,19661,38030,32710,38337,71047,109077
+state_14,Manipur,pig(indigenous),rural,31886,55489,87375,42036,48212,90248,177623
+state_17,Meghalaya,pig(indigenous),rural,108758,105689,214447,96516,103952,200468,414915
+state_15,Mizoram,pig(indigenous),rural,7930,7379,15309,5816,5037,10853,26162
+state_13,Nagaland,pig(indigenous),rural,57837,50450,108287,34497,32899,67396,175683
+state_21,Odisha,pig(indigenous),rural,24032,26871,50903,33762,37140,70902,121805
+ut_34,Puducherry,pig(indigenous),rural,27,17,44,40,40,80,124
+state_3,Punjab,pig(indigenous),rural,1131,771,1902,2103,2487,4590,6492
+state_8,Rajasthan,pig(indigenous),rural,15227,16883,32110,29604,37228,66832,98942
+state_11,Sikkim,pig(indigenous),rural,5028,5984,11012,1890,1969,3859,14871
+state_33,Tamil Nadu,pig(indigenous),rural,6158,6619,12777,13768,14442,28210,40987
+state_36,Telangana,pig(indigenous),rural,20544,18848,39392,46199,52984,99183,138575
+ut_38,The Dadra And Nagar Haveli And Daman And Diu,pig(indigenous),rural,0,0,0,0,0,0,0
+state_16,Tripura,pig(indigenous),rural,20194,16753,36947,35554,28017,63571,100518
+state_9,Uttar Pradesh,pig(indigenous),rural,43176,47579,90755,104955,114998,219953,310708
+state_5,Uttarakhand,pig(indigenous),rural,620,802,1422,841,1091,1932,3354
+state_19,West Bengal,pig(indigenous),rural,95818,99342,195160,152969,147469,300438,495598
+ut_35,Andaman And Nicobar Islands,pig(indigenous),urban,186,119,305,276,160,436,741
+state_28,Andhra Pradesh,pig(indigenous),urban,1368,1633,3001,3441,4314,7755,10756
+state_12,Arunachal Pradesh,pig(indigenous),urban,2913,3201,6114,2219,2945,5164,11278
+state_18,Assam,pig(indigenous),urban,13015,8814,21829,19946,12267,32213,54042
+state_10,Bihar,pig(indigenous),urban,1868,2008,3876,8161,8384,16545,20421
+ut_4,Chandigarh,pig(indigenous),urban,46,64,110,18,10,28,138
+state_22,Chhattisgarh,pig(indigenous),urban,2899,2919,5818,4668,5256,9924,15742
+ut_7,Delhi,pig(indigenous),urban,963,4547,5510,319,3142,3461,8971
+state_30,Goa,pig(indigenous),urban,323,334,657,383,382,765,1422
+state_24,Gujarat,pig(indigenous),urban,30,40,70,34,55,89,159
+state_6,Haryana,pig(indigenous),urban,1160,812,1972,2590,2647,5237,7209
+state_2,Himachal Pradesh,pig(indigenous),urban,61,56,117,81,76,157,274
+ut_1,Jammu And Kashmir,pig(indigenous),urban,1,2,3,5,2,7,10
+state_20,Jharkhand,pig(indigenous),urban,4814,5442,10256,8964,8787,17751,28007
+state_29,Karnataka,pig(indigenous),urban,18284,17941,36225,35720,41839,77559,113784
+state_32,Kerala,pig(indigenous),urban,75,112,187,49,53,102,289
+ut_31,Lakshadweep,pig(indigenous),urban,0,0,0,0,0,0,0
+state_23,Madhya Pradesh,pig(indigenous),urban,7988,9907,17895,14698,17113,31811,49706
+state_27,Maharashtra,pig(indigenous),urban,7164,8240,15404,10304,11958,22262,37666
+state_14,Manipur,pig(indigenous),urban,6926,5400,12326,8446,9377,17823,30149
+state_17,Meghalaya,pig(indigenous),urban,3637,4168,7805,3440,4151,7591,15396
+state_15,Mizoram,pig(indigenous),urban,1074,677,1751,817,674,1491,3242
+state_13,Nagaland,pig(indigenous),urban,6153,7318,13471,3946,4505,8451,21922
+state_21,Odisha,pig(indigenous),urban,2602,2327,4929,3496,3537,7033,11962
+ut_34,Puducherry,pig(indigenous),urban,88,74,162,160,278,438,600
+state_3,Punjab,pig(indigenous),urban,706,566,1272,724,807,1531,2803
+state_8,Rajasthan,pig(indigenous),urban,10268,9569,19837,14140,16432,30572,50409
+state_11,Sikkim,pig(indigenous),urban,167,148,315,66,50,116,431
+state_33,Tamil Nadu,pig(indigenous),urban,1256,1376,2632,2988,3059,6047,8679
+state_36,Telangana,pig(indigenous),urban,3513,3377,6890,10954,13417,24371,31261
+ut_38,The Dadra And Nagar Haveli And Daman And Diu,pig(indigenous),urban,0,0,0,0,0,0,0
+state_16,Tripura,pig(indigenous),urban,131,166,297,308,285,593,890
+state_9,Uttar Pradesh,pig(indigenous),urban,7809,9767,17576,17812,20053,37865,55441
+state_5,Uttarakhand,pig(indigenous),urban,1138,1423,2561,1555,2074,3629,6190
+state_19,West Bengal,pig(indigenous),urban,2241,2569,4810,4017,4701,8718,13528

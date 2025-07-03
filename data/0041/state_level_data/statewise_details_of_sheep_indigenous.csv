@@ -1,0 +1,71 @@
+state.id,state.name,species,location_type,population.male.upto1year,population.male.1yearandabove,population.male.total,population.female.upto1year,population.female.1yearandabove,population.female.total,population.total
+ut_35,Andaman And Nicobar Islands,sheep(indigenous),rural,0,1,1,2,2,4,5
+state_28,Andhra Pradesh,sheep(indigenous),rural,1466258,1315640,2781898,4126416,9234322,13360738,16142636
+state_12,Arunachal Pradesh,sheep(indigenous),rural,1337,1499,2836,1381,2865,4246,7082
+state_18,Assam,sheep(indigenous),rural,35804,39485,75289,110424,135071,245495,320784
+state_10,Bihar,sheep(indigenous),rural,19887,24260,44147,61225,95508,156733,200880
+ut_4,Chandigarh,sheep(indigenous),rural,0,0,0,0,0,0,0
+state_22,Chhattisgarh,sheep(indigenous),rural,27198,31907,59105,40098,76315,116413,175518
+ut_7,Delhi,sheep(indigenous),rural,65,52,117,33,45,78,195
+state_30,Goa,sheep(indigenous),rural,3,5,8,0,0,0,8
+state_24,Gujarat,sheep(indigenous),rural,105436,74920,180356,436363,1105052,1541415,1721771
+state_6,Haryana,sheep(indigenous),rural,17039,12276,29315,65809,163801,229610,258925
+state_2,Himachal Pradesh,sheep(indigenous),rural,74077,118453,192530,139595,384569,524164,716694
+ut_1,Jammu And Kashmir,sheep(indigenous),rural,147767,231619,379386,414884,848422,1263306,1642692
+state_20,Jharkhand,sheep(indigenous),rural,106466,131505,237971,165505,232552,398057,636028
+state_29,Karnataka,sheep(indigenous),rural,1101667,884739,1986406,2382540,6045731,8428271,10414677
+state_32,Kerala,sheep(indigenous),rural,188,75,263,317,354,671,934
+ut_31,Lakshadweep,sheep(indigenous),rural,0,0,0,0,0,0,0
+state_23,Madhya Pradesh,sheep(indigenous),rural,33970,30852,64822,91449,149296,240745,305567
+state_27,Maharashtra,sheep(indigenous),rural,165752,134243,299995,625281,1588482,2213763,2513758
+state_14,Manipur,sheep(indigenous),rural,925,1450,2375,1258,2184,3442,5817
+state_17,Meghalaya,sheep(indigenous),rural,2996,1997,4993,4533,6054,10587,15580
+state_15,Mizoram,sheep(indigenous),rural,9,10,19,6,16,22,41
+state_13,Nagaland,sheep(indigenous),rural,68,82,150,16,33,49,199
+state_21,Odisha,sheep(indigenous),rural,184769,209329,394098,318363,538160,856523,1250621
+ut_34,Puducherry,sheep(indigenous),rural,166,124,290,349,649,998,1288
+state_3,Punjab,sheep(indigenous),rural,5972,4233,10205,19097,40795,59892,70097
+state_8,Rajasthan,sheep(indigenous),rural,661933,449994,1111927,2102949,4562424,6665373,7777300
+state_11,Sikkim,sheep(indigenous),rural,404,537,941,396,628,1024,1965
+state_33,Tamil Nadu,sheep(indigenous),rural,447421,392875,840296,1166544,1925230,3091774,3932070
+state_36,Telangana,sheep(indigenous),rural,1637192,1269553,2906745,4646668,10580063,15226731,18133476
+ut_38,The Dadra And Nagar Haveli And Daman And Diu,sheep(indigenous),rural,10,8,18,21,45,66,84
+state_16,Tripura,sheep(indigenous),rural,649,610,1259,1556,1766,3322,4581
+state_9,Uttar Pradesh,sheep(indigenous),rural,84387,91345,175732,285763,451341,737104,912836
+state_5,Uttarakhand,sheep(indigenous),rural,20371,26580,46951,47689,109277,156966,203917
+state_19,West Bengal,sheep(indigenous),rural,143425,156514,299939,271441,358751,630192,930131
+ut_35,Andaman And Nicobar Islands,sheep(indigenous),urban,0,0,0,0,0,0,0
+state_28,Andhra Pradesh,sheep(indigenous),urban,36067,37117,73184,68136,162389,230525,303709
+state_12,Arunachal Pradesh,sheep(indigenous),urban,0,0,0,2,1,3,3
+state_18,Assam,sheep(indigenous),urban,432,441,873,1562,2072,3634,4507
+state_10,Bihar,sheep(indigenous),urban,173,231,404,1401,1563,2964,3368
+ut_4,Chandigarh,sheep(indigenous),urban,0,0,0,0,0,0,0
+state_22,Chhattisgarh,sheep(indigenous),urban,766,844,1610,981,1539,2520,4130
+ut_7,Delhi,sheep(indigenous),urban,21,27,48,14,21,35,83
+state_30,Goa,sheep(indigenous),urban,0,0,0,0,0,0,0
+state_24,Gujarat,sheep(indigenous),urban,5397,7162,12559,14803,33267,48070,60629
+state_6,Haryana,sheep(indigenous),urban,611,545,1156,2250,5986,8236,9392
+state_2,Himachal Pradesh,sheep(indigenous),urban,253,293,546,359,925,1284,1830
+ut_1,Jammu And Kashmir,sheep(indigenous),urban,2074,5359,7433,3139,10204,13343,20776
+state_20,Jharkhand,sheep(indigenous),urban,770,1182,1952,765,1107,1872,3824
+state_29,Karnataka,sheep(indigenous),urban,54907,56351,111258,117620,306910,424530,535788
+state_32,Kerala,sheep(indigenous),urban,6,8,14,22,15,37,51
+ut_31,Lakshadweep,sheep(indigenous),urban,0,0,0,0,0,0,0
+state_23,Madhya Pradesh,sheep(indigenous),urban,1565,1660,3225,3831,7359,11190,14415
+state_27,Maharashtra,sheep(indigenous),urban,3427,3461,6888,11066,23800,34866,41754
+state_14,Manipur,sheep(indigenous),urban,9,7,16,37,20,57,73
+state_17,Meghalaya,sheep(indigenous),urban,0,0,0,0,0,0,0
+state_15,Mizoram,sheep(indigenous),urban,1,0,1,1,0,1,2
+state_13,Nagaland,sheep(indigenous),urban,0,1,1,0,0,0,1
+state_21,Odisha,sheep(indigenous),urban,3147,3204,6351,5789,9899,15688,22039
+ut_34,Puducherry,sheep(indigenous),urban,21,40,61,41,79,120,181
+state_3,Punjab,sheep(indigenous),urban,390,328,718,934,1924,2858,3576
+state_8,Rajasthan,sheep(indigenous),urban,6995,5302,12297,20100,45854,65954,78251
+state_11,Sikkim,sheep(indigenous),urban,1,3,4,0,2,2,6
+state_33,Tamil Nadu,sheep(indigenous),urban,32544,35090,67634,85055,138082,223137,290771
+state_36,Telangana,sheep(indigenous),urban,47072,40446,87518,114936,240177,355113,442631
+ut_38,The Dadra And Nagar Haveli And Daman And Diu,sheep(indigenous),urban,22,8,30,19,18,37,67
+state_16,Tripura,sheep(indigenous),urban,65,38,103,239,317,556,659
+state_9,Uttar Pradesh,sheep(indigenous),urban,1648,2004,3652,7108,10043,17151,20803
+state_5,Uttarakhand,sheep(indigenous),urban,295,573,868,997,2474,3471,4339
+state_19,West Bengal,sheep(indigenous),urban,1384,1157,2541,1848,2278,4126,6667

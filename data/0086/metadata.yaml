@@ -1,0 +1,34 @@
+tables:
+  fmd_vaccinations:
+    data_dictionary:
+      metadata.vaccinationRound:
+        description: 'Vaccination round'
+        comments:
+        access: True
+      state.ID:
+        description: 'State ID or Union Territory ID constructed from Local Government Directory in India. Unique across the country.'
+        comments:
+        access: True
+      state.name:
+        description: 'State or Union Territory Name, as per Local Government Directory in India'
+        comments:
+        access: True
+      district.ID:
+        description: 'District constructed from Local Government Directory in India. Unique across the country.'
+        comments:
+        access: True
+      district.name:
+        description: 'District Name, as per Local Government Directory in India'
+        comments:
+        access: True
+      totalVaccinations.count:
+        description: 'Total number of vaccinations done'
+        comments:
+        access: True
+      farmersBenefited.count:
+        description: 'Number of farmers benefitted from vaccinations'
+        comments:
+        access: True
+  info:
+    about: 'Vaccinations done state-wise scraped from NDLM website. Time period unclear.'
+    source: 'NDLM website'
